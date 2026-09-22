@@ -150,4 +150,5 @@ Cameos are Sora 2's way of putting a real person into generated video with conse
 *This is an independent, community-maintained information repository about Sora. It is not affiliated with, endorsed by, or sponsored by OpenAI. All trademarks belong to their respective owners. Corrections welcome via issues.*
 
 
+
 _Last reviewed: 2026-09-22_
